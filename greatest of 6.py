@@ -1,0 +1,8 @@
+a=int(input("enter the no"))
+b=int(input("enter the no"))
+c=int(input("enter the no"))
+d=int(input("enter the no"))
+x=int(input("enter the no"))
+y=int(input("enter the no"))
+greatest  = max(x,y,a,b,c,d)
+print("greatest no"+str(greatest ))

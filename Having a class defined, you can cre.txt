@@ -1,0 +1,1 @@
+Having a class defined, you can create as many objects as required. These objects a e called instances of this class. The process of creating objects is called instantiation.
